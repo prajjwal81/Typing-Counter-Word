@@ -1,0 +1,35 @@
+.container{
+    background: grey;
+    height: 50vw;
+}
+.heading{
+    background: rgb(12, 2, 2);
+    height: 50px;
+    color: antiquewhite;
+}
+.given{
+    font-size: 50px;
+    margin-top: 20px;
+}
+.hello{
+    font-size:  100px;
+}
+#input{
+    margin-left: 300px;
+    width: 500px;
+    height: 50px;
+}
+.ans{
+    font-size: 40px;
+}
+.ins{
+    margin-left: 300px;
+    width: 500px;
+    height: 100px;
+    border: solid black;
+    border-radius: 10px;
+}
+.dropdown{
+    background: grey;
+    color: black;
+}
